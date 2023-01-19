@@ -15,6 +15,7 @@
 
 - コンポーネント化の粒度
 
+## 成果物キャプチャー
 - 申込画面
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/115063679/213370054-509ac1ed-f63e-4d2f-b8a6-db02a96a0a34.png">
 - JSON記法でのlog出力
